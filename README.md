@@ -1,7 +1,7 @@
 # Modern-JS-Course-Projects
 
 ## 🇹🇷 Açıklama
-Bu repo, **Modern JavaScript Kursu** kapsamında geliştirilen projeleri içermektedir.  
+Bu repo, **[Modern JavaScript Kursu](https://www.udemy.com/course/modern-javascript-kursu/)** kapsamında geliştirilen projeleri içermektedir.  
 Amaç; JavaScript’in modern özelliklerini (ES6+), DOM manipülasyonu, asenkron işlemler ve temel proje yapıları üzerinden pratik yaparak pekiştirmektir.  
 
 Projeler eğitim sürecinde yapılan alıştırmalar ve örnek uygulamalardan oluşur.
