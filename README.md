@@ -9,7 +9,7 @@ Projeler eğitim sürecinde yapılan alıştırmalar ve örnek uygulamalardan ol
 ---
 
 ## 🇬🇧 Description
-This repository contains projects developed as part of the **Modern JavaScript Course**.  
+This repository contains projects developed as part of the **[Modern JavaScript Course](https://www.udemy.com/course/modern-javascript-kursu/)**.  
 The main goal is to practice and reinforce modern JavaScript (ES6+), DOM manipulation, asynchronous operations, and basic project structures.
 
 All projects are created during the learning process as hands-on practice.
